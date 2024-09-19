@@ -1,0 +1,261 @@
+/*Código de André Mathias Ferreira e Felipe da Silva Rigotti*/
+/*Comentado por André Mathias Ferreira*/
+
+
+/*Felipe*/
+.logo{
+		
+	background-color: #990f02;
+	padding: 5px 780px 5px 780px;
+	border-style: solid;
+	border-width: 3px;
+	border-color: #000000; 
+}
+
+/*Felipe*/
+body{
+	
+	background-color: #202020;
+	color:#ffffff;
+	font-family: sans-serif;
+}
+
+/*Felipe*/
+.C{
+	
+	margin:70px 0px 0px 0px;
+}
+
+/*Felipe*/
+figcaption{
+	
+	margin: 10px 0px 0px 0px;
+	text-align: center;
+}
+
+/*Felipe, editado por André*/
+h1{
+	
+	margin:50px 0px 0px 0px ;
+	font-size: 40px;
+	text-align: center;
+	padding-right: 50px;
+}
+
+/*Felipe*/
+h2{
+	
+	font-size: 30px;
+	text-align: center;
+	margin-left: 0px;
+	margin-top: 100px;
+}
+
+/*Felipe*/
+p{
+	
+	margin:30px 0px 0px 0px ;
+	font-size: 25px;
+	text-align: center;
+	padding: 0px 280px 0px 280px;
+}
+
+/*Felipe*/
+.e{
+	
+	margin-top: 100px;
+}
+
+/*Felipe*/
+footer{
+	margin:100px 0px 0px 0px ;
+	padding: 50px 0px 50px 0px;
+	background-color: #990f02;
+	border-style: solid;
+	border-width: 3px;
+	border-color: #000000;
+}
+
+/*Felipe*/
+strong{
+	
+	font-size: 30px;
+}
+
+/*Felipe*/
+.rodapé{
+	
+	font-size: 30px;
+	padding: 0px;
+	margin: 0px;
+	text-align: center;
+}
+
+/*Felipe*/
+.S{
+	padding: 0px 280px 0px 280px;
+	text-align: center;
+}
+/*Felipe*/
+
+.D{
+	
+	margin: 0px 0px 0px 0px;
+}
+
+/*Felipe, editado por André*/
+.premio{
+	
+	border-style: solid;
+	border-width: 3px;
+	border-color: #000000;
+}
+
+/*Felipe*/
+.Z{
+	
+	margin-bottom: 100px;
+}
+
+/*Felipe*/
+a{
+	color: #F0E68C;
+}
+
+/*André*/
+.gojo{
+	border-style: solid;
+	border-width: 3px;
+	border-color: #6F2DA8;
+}
+
+/*André*/
+.yuji{
+	border-style: solid;
+	border-width: 3px;
+		border-color: #ed4b82;
+}
+
+/*André*/
+.nobara{
+	border-style: solid;
+	border-width: 3px;
+		border-color: #ff781f;
+}
+
+/*André*/
+.megumi{
+	border-style: solid;
+	border-width: 3px;
+		border-color: #000038;
+}
+
+/*André*/
+.sukuna{
+	border-style: solid;
+	border-width: 3px;
+		border-color: #8B0000;
+}
+
+/*André*/
+.suguru{
+	border-style: solid;
+	border-width: 3px;
+		border-color: #000000;
+}
+
+/*André*/
+.gj{
+	background-color: #6F2DA8
+}
+
+/*André*/
+.yi{
+	background-color: #ed4b82
+}
+
+/*André*/
+.nb{
+	background-color: #ff781f
+}
+
+/*André*/
+.mg{
+	background-color: #000038
+}
+
+/*André*/
+.sk{
+	background-color: #8B0000
+}
+
+/*André*/
+.sg{
+	background-color: #000000
+}
+
+/*André*/
+.roxo{
+	color: #6F2DA8
+}
+
+/*André*/
+.rosa{
+	color: #ed4b82
+}
+
+/*André*/
+.laranja{
+	color: #ff781f
+}
+
+/*André*/
+.azul{
+	color: #4169E1
+}
+
+/*André*/
+.vermelho{
+	color: #8B0000
+}
+
+/*André*/
+.preto{
+	color: #D3D3D3;
+	margin-bottom:100px;
+}
+
+/*André*/
+.elenco{
+	margin-top: 100px;
+	margin-bottom: 50px;
+}
+
+/*Felipe*/
+#Links{
+	border-style: solid;
+	border-width: 3px;
+	border-color: #4F4F4F;
+	margin: 100px 700px 100px 700px;
+	background-color: #000000;
+}
+
+/*Felipe*/
+#Re{
+	margin: 15px;
+	padding: 0px;
+}
+
+/*Felipe*/
+#info{
+	margin:40px 400px 120px 400px;
+	font-size: 25px;
+	text-align: center;
+	padding:25px;
+}
+
+/*Felipe*/
+.retorno{
+	margin-top: 50px;
+	margin-bottom: 10px;
+}

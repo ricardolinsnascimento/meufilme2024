@@ -1,0 +1,57 @@
+body{
+    color: black;
+    text-align: center;
+    font-family: helvetica, arial, sans-serif;
+    margin: 20px 30px 20px 30px;
+	background-size: cover;
+     background-image: url(../img/fundo2.jpg)
+}
+
+li {
+	color: black;
+	list-style-type: none;
+}
+
+p {
+	color: black;
+}
+
+ul{
+border-color: black;
+border-style: solid;
+border-width: 3px;
+margin-left: 50px;
+margin-right: 50px;
+padding-top: 0px;
+padding-bottom: 0px; 
+}
+
+figure {
+	margin-bottom: 20px
+}
+
+footer{
+    background-color: black; 
+    padding-bottom: 20px;
+    padding-top: 20px;
+    margin: 20px;
+}
+
+#rodape{
+    font-size: 20px;
+    color: white;
+}
+
+.pg2{
+    font-size: 18px;
+}
+
+.borda{
+    border-style:
+    border-color black
+    background-color gray
+}
+
+img {
+    height="100" width="auto"
+}

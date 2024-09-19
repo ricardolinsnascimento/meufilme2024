@@ -1,0 +1,107 @@
+
+
+.pag1{
+	background-image: url(../img/F1.jpg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+
+
+/* Estilo para o rodapé */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+	bottom: 0;
+    font-size: 14px;
+}
+
+#h1titulo{
+	text-align: center;
+}
+
+h2{
+	padding: 10px;
+
+}
+
+h3{
+	font-family: sans-serif; 
+	font-size: 13px;
+}
+
+#h3diretores{
+	padding-left: 10px;
+	font-family: monospace;
+	font-size: 24px;
+	text-decoration: underline;
+}
+
+h4{
+	color: black;
+	font-size: 20px;
+	font-family: monospace;
+}
+
+.container{
+	text-align: center;
+}
+
+#elenco{
+	text-align: center;
+	font-family: italic;
+	font-size: 18px;
+}
+
+
+.elenco2 {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+
+.ator {
+    text-align: center;
+    max-width: 150px;
+}
+
+.ator img {
+    width: 100%;
+    height: 150px;
+    border-radius: 8px;
+}
+
+.ator a{
+	text-decoration: underline;
+	color: black;
+	display: block;
+}
+
+#li1{
+	margin-top: 20px;
+	margin-right: 20px;
+	font-family: sans-serif;
+	font-size: 20px
+}
+
+#elencodebb{
+	text-align: center;
+}
+
+#a12{
+	color: white;
+	font-family: sans-serif;
+	font-size: 20px
+}
+
+#a123{
+	color: black;
+	font-family: sans-serif;
+	font-size: 20px
+}

@@ -1,0 +1,36 @@
+body{
+	color: white;
+	text-align: center;
+	background-image: url(../img/homi.jpg); 
+	font-family: helvetica, arial, sans-serif;
+	background-size: cover;
+	margin-left: 300px;
+	margin-bottom: 30px;
+	margin-right: 300px;
+	margin-top: 30px;
+}
+li{
+	list-style: none;
+	color : white;
+
+	font-size: 20px;
+}
+h2{
+	font-size: 20px;
+}
+ul{ 
+	list-style: none;
+	padding-top: 30px; 
+}
+p{
+	font-size:20px;
+}
+a{
+	color: white;
+	font-size: 20px;
+}
+footer{
+	margin-top:60px; 
+	color: #C0C0C0;
+	font-size:18px;
+}

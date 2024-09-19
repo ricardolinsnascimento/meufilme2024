@@ -1,0 +1,76 @@
+save
+body{
+	background-image: url(../img/prancheta1.png);
+	background-size: cover;
+	background-attachment: fixed;
+	font-family: sans-serif;	
+}
+h2{
+	color: white;
+	font-size: 30px;
+	margin-top: 100px;
+	color:  #d77df9;
+}
+figcaption{
+	position:relative;
+	margin-top: 40px;
+	font-size: 25px;	
+	color: #e3a5fa;
+	left: 30px;
+
+}
+img{
+	border-radius: 100px;
+	margin bottom: 100px;
+	margin-top: 10px;
+}
+#a1{
+	font-size: 40px;	
+	color: #d77df9;
+}
+#center{
+	text-align: center;
+
+}
+#img2{
+	border-radius: 40px;
+	position: relative;
+	left: 200px;
+	top:10px;
+}
+#p1{
+	font-size: 18px;
+	color: #e3a5fa;
+}
+#p2{
+	
+}
+#p3{
+		font-size: 22px;
+	color: #e3a5fa;
+	float: right;
+		display: inline-block;
+	  vertical-align: top;
+    width: 20%;
+    margin-right: 63%;
+    margin-top: -4%;
+}
+#neil{
+	border-radius: 40px;
+	position: relative;	
+}
+#neilfig{
+	font-size: 22px;
+	color: #e3a5fa;
+	float: bottom;
+		display: inline-block;
+	  vertical-align: right;
+    width: 20%;
+    margin-right: 20%;
+}
+.livro{
+	border-style: outset;
+	border-color: white;
+	border-width:5px;
+}
+	border: 5px outset white;

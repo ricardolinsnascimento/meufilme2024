@@ -1,0 +1,42 @@
+-página inicial, com imagem de divulgação (+) , diretor (+), ano de lançamento(+) e sinopse (+)
+
+-Página elenco (+), com informações sobre os atores. Caso seja uma animação, essa página pode ser de personagens(+/-) ou dubladores
+
+-Nessa nova página deve ter imagem dos atores/personagens(+), nome(+), idade(+), nacionalidade e alguma outra informação de destaque(+)
+
+-A partir da página inicial, criar dois links(+) - um link para a página Elenco (ou personagens) e outro link para uma site externo sobre o filme
+
+-Dentro da página Elenco, fazer no início da página links internos para os atores ou personagens (uma lista de links)(-)
+
+-Dentro da página Elenco, criar um link para voltar à página principal(+)
+
+-Criar um rodapé nas duas páginas (aprenderemos hoje) e no rodapé colocar o texto - "Desenvolvido por Fulano de Tal, trabalho de Front-end1 - IFMS Dourados)(+)
+
+Colocar comentário no código, nas duas páginas, identificando os autores.(+)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Fazer um site de divulgação do seu filme/série ou animação preferido
+
+Poderá ser feito individual ou em duplas
+
+O site deverá ter pelo menos duas páginas
+Critérios de avaliação
+
+- Conteúdo
+00:27 15/09/2024
+- Uso correto de elementos HTML (hadding tags, parágafos, imagens, listas, tags de ênfase, rodapé)
+
+- Links funcionando corretamente
+
+- CSS (aparência do site)
+
+- identação do código
+https://www.imdb.com/title/tt0327597/
+https://portalwhiz.com/resenha-coraline-e-o-mundo-secreto/
+
+
+
+Envio
+
+Enviar somente um arquivo (pasta compactada). Caso o arquivo fique muito grande,  deverá ser enviado um link do google drive (use o e-mail institucional)

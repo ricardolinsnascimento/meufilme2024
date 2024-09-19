@@ -1,0 +1,60 @@
+body{
+
+	background-color: grey;
+	text-align: center;
+	background-image: url(../img/preto.jpg);
+	background-size: cover;
+	color: white;
+	border-style: solid;
+	margin: 30px;
+}
+
+h1{
+	background-color: darkred;
+}
+
+.metade{
+
+	margin-top: -12%;
+	margin-left: 13%;
+}
+
+
+.parte{
+
+	margin-top: 2%;
+	margin-left: -26%;
+}
+
+
+
+img{
+
+	border-style: dashed;
+}
+
+.vermelho{
+
+	color: darkred;
+
+}
+
+
+h3{
+
+	border-style: dashed;
+	padding-left: -70%;
+	padding-top: 1px;
+	padding-bottom: 1px;
+	margin-left: 500px;
+	margin-right: 500px;
+
+}
+
+#rodape{
+
+	background-color: darkred;
+	font-size: 30px;
+}
+
+<!--Danielle zimmer-->

@@ -1,0 +1,40 @@
+body{
+    background-color: white; 
+}
+a
+{
+	color: black;
+}
+h1{
+	background-color: rgb(252, 169, 3);
+	color: #ffffff; 
+	margin: 20px 92px 20px 92px;
+	font-size: 50px
+}
+table{
+	margin-left: 50px;
+}
+#sinopse{
+	margin-left: 90px;
+}
+#sinopse2{
+	margin-left: 90px;
+}
+#titulo{
+	text-align: center;
+}
+#img{
+	text-align: center;
+}
+#elenco{
+	color: black;
+}
+footer{
+	padding: 5px;
+	color: #ffffff;
+	background-color: rgb(252, 169, 3);
+	text-align: center;
+}
+#link{
+	margin-left: 90px;
+}

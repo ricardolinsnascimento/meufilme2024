@@ -1,0 +1,32 @@
+body{
+	background-color: pink;
+	color: dark pink;
+	text-align: center;
+	font-family: helvetica, arial, sans-serif;
+	margin-left: 30px;
+	margin-right: 30px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+li{
+	color: pink;
+	list-style-type: none;
+}
+p{
+	font-size:20px;
+}
+ul{
+	border-style: ;
+	border-width: 4px;
+	border-color: rgb(0, 255, 0);
+	padding-top: 20px;
+}
+
+a{
+	color: gray;
+}
+image{
+	float: left; /* faz a imagem flutuar á esquerda */
+	margin-right: 15px; /* espaço entre a imagem e o texto
+}

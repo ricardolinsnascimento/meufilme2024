@@ -1,0 +1,155 @@
+body{
+	color: #ffffff;
+	background-color: #FFF5EE ;
+	background-image: url(../Img/Wallpaper1.png);
+	background-attachment: fixed ;
+	text-align: center;
+	font-size: 12px;
+	font-family: helvetica, arial, sans-serif;
+	margin: 00px;
+
+}	
+figure{
+	margin-bottom: 50px;
+
+}
+ol{
+	margin-left: 690px;
+	margin-right: 690px;
+	border-color: #000000;
+	border-width: 10px;	
+	border-style: double;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: left;
+
+}
+p{
+	font-size: 20px;
+
+}
+a{
+	color: #ffffff;
+
+}
+footer{
+	color: #ffffff;
+	font-size: 20px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background-color: rgb(0, 0, 0, 0.8);
+
+}
+#Title{
+	font-size: 40px;
+	background-color: #37726f;
+}
+#h1Personagens{
+	background-color: #37726f;
+}
+#Sinopse{
+	background-color: #37726f;
+}
+#Informações{
+	background-color: #37726f;
+}
+#h2Walle{
+	background-color: #37726f;
+}
+#h2Eva{
+	background-color: #37726f;
+}
+#h2Comandante{
+	background-color: #37726f;
+}
+#h2Auto{
+	background-color: #37726f;
+}
+#h2Mo{
+	background-color: #37726f;
+
+}
+#DivComandante{
+	background-color: rgb(0, 0, 0, 0.5);
+	padding-top: 50px;
+	padding-bottom: 50px;
+	margin-bottom: 150px;
+	margin-top: 150px;
+}
+#DivWalle{
+	background-color: rgb(0, 0, 0, 0.5);
+	padding-top: 50px;
+	padding-bottom: 50px;
+	margin-bottom: 150px;
+	margin-top: 150px;
+
+}
+#DivEva{
+	background-color: rgb(0, 0, 0, 0.5);
+	padding-top: 50px;
+	padding-bottom: 50px;
+	margin-bottom: 150px;
+	margin-top: 150px;
+
+}
+#DivAuto{
+	background-color: rgb(0, 0, 0, 0.5);
+	padding-top: 50px;
+	padding-bottom: 50px;
+	margin-bottom: 150px;
+	margin-top: 150px;
+
+}
+#DivMo{
+	background-color: rgb(0, 0, 0, 0.5);
+	padding-top: 50px;
+	padding-bottom: 50px;
+	margin-bottom: 150px;
+	margin-top: 150px;
+
+}
+#Personagens{
+	background-color: rgb(0, 0, 0, 0.5);
+	border-color: #000000;
+	border-width: 5px;	
+	border-style: solid;
+	padding-bottom: 20px;
+	margin-top: 30px;
+	margin-left: 700px;
+	margin-right: 700px;
+}
+#DivTitle{
+	background-color: rgb(0, 0, 0, 0.5);
+	padding-top: 50px;
+	padding-bottom: 50px;
+	margin-bottom: 150px;
+	margin-top: 30px;
+
+}
+#DivSinopse{
+	background-color: rgb(0, 0, 0, 0.5);
+	padding-top: 50px;
+	padding-bottom: 50px;
+	margin-bottom: 150px;
+	margin-top: 150px;
+
+}
+#DivAndrew{
+	background-color: rgb(0, 0, 0, 0.5);
+	padding-top: 50px;
+	padding-bottom: 50px;
+	margin-bottom: 150px;
+	margin-top: 150px;
+
+}
+
+
+
+
+
+
+
+
+

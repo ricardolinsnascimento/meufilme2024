@@ -1,0 +1,26 @@
+
+body{
+	border-color: rgb(0,0,0);
+	border-style: solid;
+	border-width: 2px;
+	font-family: sans-serif;
+	margin: 20px;
+	padding: 5px;
+}
+
+
+img{
+	text-align: center;
+}
+h1{
+	text-align: center;
+}
+p{
+	text-align: center;
+}
+a{
+	color: rgb(0,191,255);
+}
+footer{
+	text-align: center;
+}

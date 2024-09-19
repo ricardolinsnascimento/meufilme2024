@@ -1,0 +1,57 @@
+body
+{background-color:; 
+color:#6495ED;
+text-align:center;
+}
+
+
+
+
+p{
+
+
+border-width: 2px;
+font-size: 30px;
+font-family: sans-serif;
+background-color:write;
+}
+
+body{
+border-color:;
+ 
+border-width: 2px;
+margin-left: 5px
+margin-right:5px;
+margin-top:5px;
+margin-bottom: 5px;
+}
+
+h1{
+
+font-family:sans-serif;
+color:#C71585;
+background-color: 
+}
+
+h2{
+font-family:sans-serif;
+color:#8B008B;
+background-color: 
+}
+
+figure{ 
+margin-bottom: 50px;
+}
+a{ color: #40E0D0 }
+
+footer{
+padding-top:10px
+padding-bottom:10px
+margin-top:10px	
+}
+#rodape{
+font-size: 10px
+
+}
+
+  

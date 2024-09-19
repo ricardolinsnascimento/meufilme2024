@@ -1,0 +1,216 @@
+body{
+	background-image: url(../img/prancheta1.png);
+	background-size: cover;
+	background-attachment: fixed;
+	font-family: sans-serif;
+}
+h1{
+	font-size: 44px;	
+	color: #d77df9;
+	padding-bottom: 0.7%;
+	border-bottom: 5px double mediumpurple;
+}
+h2{
+	position: relative;
+	text-align: center;
+	font-size: 22px;
+	color: #e3a5fa;
+	border: 5px outset rebeccapurple;
+	background-image: url(../img/footer.jpeg);
+	width: 20%;
+	padding: 10px;
+	margin: 0% 0% 8% 54%;
+}
+h3{
+	position: relative;
+	text-align: center;
+	font-size: 22px;
+	color: #e3a5fa;
+	border: 5px outset rebeccapurple;
+	background-image: url(../img/footer.jpeg);
+	width: 10%;
+	padding: 10px;
+	margin-left: 60%;
+}
+h4{
+	position: relative;
+	text-align: center;
+	font-size: 25px;
+	color: #e3a5fa;
+	border: 5px outset rebeccapurple;
+	background-image: url(../img/footer.jpeg);
+	width: 20%;
+	padding: 10px;
+	margin: 6% 0% 3% 55%;
+}
+h5{
+	position: relative;
+	text-align: center;
+	font-size: 25px;
+	color: #e3a5fa;
+	border: 5px outset rebeccapurple;
+	background-image: url(../img/footer.jpeg);
+	width: 20%;
+	padding: 10px;
+	margin-left: 55%;
+}
+h6{
+	text-align: center;
+	font-size: 25px;
+	padding-bottom:30px;
+	margin-bottom: 5%;
+}
+ul{
+	font-size: 20px;	
+	color: #F2CFFF;
+	border: 5px outset rebeccapurple;
+	background-image: url(../img/footer.jpeg);
+	margin: 0% 0% 6% 53.5%;
+	width: 22%;
+	padding: 20px 2px 20px 30px;
+}
+li{
+	padding: 2% 0% 2% 0%;
+}
+.body2{
+	border: 30px solid transparent;
+	border-image: url(../img/border4.jfif) 200 round;
+	padding: 5% 0% 24% 0%;
+}
+.center{
+	text-align: center;
+}
+#capa{
+	border-radius: 100px;
+}
+#livro{
+	position: relative;	
+	border-radius: 40px;
+	margin-left: 3.5%;
+	border: 6px outset rebeccapurple;
+}
+#p1{
+	font-size: 22px;
+	color: #e3a5fa;
+}
+#p2{
+	text-align: center;
+	font-size: 18px;
+	color: #e3a5fa;
+	border: 5px outset rebeccapurple;
+	background-image: url(../img/footer.jpeg);
+	width: 20%;
+	margin: 1% 0% 0% 3.2%;
+	padding: 1%;
+}
+#p3{
+	position: relative;
+	text-align: center;
+	font-size: 22px;
+	color: #e3a5fa;
+	border: 5px outset rebeccapurple;
+	background-image: url(../img/footer.jpeg);
+	width: 50%;
+	margin: -35% 0% 5% 39%;
+	padding: 1%;
+}
+#p4{
+	position: relative;
+	text-align: center;
+	font-size: 22px;
+	color: #e3a5fa;
+	border: 5px outset rebeccapurple;
+	background-image: url(../img/footer.jpeg);
+	width: 60%;
+	padding: 1%;
+	margin-left: 35%;
+}
+#p5{
+	position: absolute;
+	text-align: center;
+	font-size: 20px;	
+	color: #F2CFFF;
+	border: 5px outset rebeccapurple;
+	background-image: url(../img/footer.jpeg);
+	margin-left: 41.5%;
+	width: 40%;
+	padding: 13px;
+}
+#neil{
+	position: absolute;	
+	border-radius: 40px;
+	border: 6px outset rebeccapurple;
+	margin-top: -65%;
+}
+#neilfig{
+	position: absolute;
+	text-align: center;
+	font-size: 22px;
+	color: #e3a5fa;
+	border: 5px outset rebeccapurple;
+	background-image: url(../img/footer.jpeg);
+	padding: 1%;
+	width: 20%;
+	margin-top: -42%;
+}
+#selick{
+	position: absolute;
+	border-radius: 40px;
+	border: 6px outset rebeccapurple;
+	margin-top: -20%;
+}
+#figselick{
+	position: absolute;
+	text-align: center;
+	font-size: 22px;
+	color: #e3a5fa;
+	border: 5px outset rebeccapurple;
+	background-image: url(../img/footer.jpeg);
+	padding: 1%;
+	width: 20%;
+	margin: 6% 0% 0% 0.5%;
+}
+#portal{
+	color: #e3a5fa;
+	border: 5px outset rebeccapurple;
+	border-radius: 40px;
+	margin: 2% 0% 2% 45%;
+}
+#link1{
+	text-align: center;
+	text-decoration: none;
+	color: white;
+	border: 5px outset royalblue;
+	background-color: royalblue;
+	padding: 14px 25px;
+}
+#link2{
+	text-align: center;
+	text-decoration: none;
+	color: white;
+	border: 5px outset royalblue;
+	background-color: royalblue;
+	padding: 14px 25px;
+	margin: 0% 2% 0% 2%;
+}
+#link3{
+	text-align: center;
+	text-decoration: none;
+	color: white;
+	border: 5px outset royalblue;
+	background-color: royalblue;
+	padding: 14px 25px;
+}
+#link4{
+	text-align: center;
+	text-decoration: none;
+	color: white;
+	border: 5px outset royalblue;
+	background-color: royalblue;
+	padding: 14px 25px;
+	margin-left: 2%;
+}
+footer{
+	background-color:#8a569d;
+	padding: 100px 100px 60px 100px;
+}

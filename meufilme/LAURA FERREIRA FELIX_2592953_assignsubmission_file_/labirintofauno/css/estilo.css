@@ -1,0 +1,28 @@
+body{
+	background-color:#87CEEB;
+	text-align:center;
+	font-family:helvetica, arial, sans-serif;
+
+}
+#Sinopse{color: ;
+text-align:left;
+}
+
+#cartaz{float: left;
+	margin-right: 10px;
+	border-color:#4682B4;
+	border-style: solid;
+	border-width: 10px;
+
+	}
+#info{
+	float: right;
+	margin-right: 10px;
+	border-color:#4682B4;
+	border-style: solid;
+	border-width: 10px;
+
+}
+footer{color: #0097a7;
+	text-align:left;
+}

@@ -1,0 +1,15 @@
+body{
+	background-color: #360504;
+	color: #ffffff;
+	font-family: helvetica, sans-serif;
+	margin-left: 50px;
+}
+h1{
+	font-size: 50px;
+}
+p{
+	font-size: 25px;
+}
+li{
+	font-size: 20;
+}

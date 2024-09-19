@@ -1,0 +1,262 @@
+/* Reset básico */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Satoshi', sans-serif;
+}
+
+/* Estilos do header */
+header {
+    background-color: #111;
+    color: #fff;
+    padding: 0px;
+    text-align: right;
+    position: sticky;
+    top: 0;
+    z-index: 3;
+}
+
+
+
+header nav ul {
+    list-style: none;
+    display: flex;
+
+}
+
+#Logo {
+    max-width: 200px;
+    margin-right: 70%;
+    margin-left: 26px;
+}
+
+header nav ul a img{
+    width: 200px;
+    height: 35.92px;
+    margin-top: 9px;
+}
+
+header nav ul li {
+    margin-right: 79px;
+    margin-top: 16.5px;
+    margin-bottom: 16.5px;
+}
+
+header nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+header nav ul li a:hover {
+    text-decoration: underline;
+}
+
+.barraEnfeite {
+    height: 160px;
+    width: 1.5px;
+    background-color: #727171;
+}
+
+main nav {
+    position: relative;
+    display: flex;
+    margin-top: 70px;
+    margin-left: 104px;
+}
+
+main nav ul {
+    list-style: none;
+}
+
+main nav ul li a {
+    color: #727171;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+main nav ul li a:hover{
+    color: #111;
+    opacity: 0.8;
+    text-decoration: underline;
+}
+
+main nav ul li {
+    margin-left: 8px;
+    margin-bottom: 6px;
+}
+
+main nav ul li h1 {
+    font-size: 26px;
+    margin-bottom: 1px;
+}
+
+.voltar{
+    cursor: pointer;
+    position: relative;
+    background-color: #D9D9D9;
+    width: 104px;
+    height: 33px;
+    display: flex;
+    border-radius: 12px;
+    justify-content: center;
+    text-decoration: none;
+    color: #111 ;
+    margin-left: 90%;
+    top: -160px;
+}
+
+.voltar:hover{
+    text-decoration: underline;
+}
+
+.voltar p {
+    font-size: 18px;
+    margin-top: 4px;
+    margin-right: 6px;
+    margin-left: 2px;
+}
+
+.voltar img {
+    width: 18px;
+    height: 18px;
+    margin-top: 7.5px;
+}
+
+.atorMilesTeller{
+    margin-top: 101px;
+    margin-left: 104px;
+    position: relative;
+    display: flex;
+}
+#fotoMiles {
+    width: 268px;
+    height: 348px;
+    background-image: url(/imagens/Elenco/Miles_Teller\ \(1\).jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    border-radius: 23px;
+}
+
+.parteEsquerda a {
+    font-size: 30px;
+    text-decoration: none;
+    color: #111;
+    margin-left: 2px;
+}
+
+.parteEsquerda p {
+    font-size: 26px;
+    color: #727171;
+}
+
+.informacoes {
+    font-size: 26px;
+    margin-top: 16px;
+    margin-left: 28px;
+}
+
+.informacoes p {
+    color: #727171;
+    margin-bottom: 8px;
+    max-width: 900px;
+}
+
+.informacoes p b {
+    color: #111;
+}
+
+.atorJKSimmons {
+    margin-top: 101px;
+    margin-left: 104px;
+    position: relative;
+    display: flex;
+}
+
+#fotoJK {
+    width: 268px;
+    height: 348px;
+    background-image: url(/imagens/Elenco/J.\ K.\ Simmons.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    border-radius: 23px;
+}
+
+.atorPaulReiser {
+    margin-top: 101px;
+    margin-left: 104px;
+    position: relative;
+    display: flex;
+}
+
+#fotoPaul {
+    width: 268px;
+    height: 348px;
+    background-image: url(/imagens/Elenco/Paul\ Reiser.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    border-radius: 23px;
+}
+
+.atorMelissaBenoist {
+    margin-top: 101px;
+    margin-left: 104px;
+    position: relative;
+    display: flex;
+}
+
+#fotoMelissa {
+    width: 268px;
+    height: 348px;
+    background-image: url(/imagens/Elenco/Melissa\ Benoist.webp);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    border-radius: 23px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.voltarTopo {
+    position: relative;
+    background-color: #D9D9D9;
+    width: 300px;
+    height: 56px;
+    display: flex;
+    border-radius: 12px;
+    border-style: none;
+    justify-content: center;
+    text-decoration: none;
+    color: #111 ;
+    margin-left: 80%;
+    margin-bottom: 57px;
+}
+
+.voltarTopo img {
+    width: 32px;
+    height: 32px;
+    margin-top: 13px;
+    rotate: 270deg;
+}
+
+.voltarTopo p {
+    font-size: 26px;
+    margin-top: 10px;
+    margin-right: 21px;
+    margin-left: 2px;
+}
+
+.voltarTopo:hover{
+    text-decoration: underline;   
+}
+
+footer {
+    height: 50px;
+    text-align: center;
+    background-color: #111;
+    color: #f2f2f2; 
+}

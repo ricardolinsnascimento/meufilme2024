@@ -1,0 +1,65 @@
+body{
+
+	background-color: grey;
+	font-family: helvetica, arial, sans-serif;
+	background-image: url(../img/galaxia.webp);
+	background-size: cover;
+	color: white;
+	border-style: solid;
+	margin: 30px;
+}
+
+
+
+#letras{
+
+	margin-left: 62%;
+	margin-top: -35%;
+}
+
+h1{
+
+	text-align: center;
+	padding-bottom: 3%;
+	background-color: darkred;
+	padding-bottom: 3px;
+
+}
+
+
+.cor1{
+
+	color: darkred;
+}
+
+
+.cor2{
+
+	color: darkred;
+
+}
+
+
+.centro{
+
+	text-align: center;
+}
+
+.meio{
+
+	text-align: center;
+}
+
+img{
+
+	border-style: dashed;
+	border-color: darkred;
+}
+
+#rodape{
+
+	background-color: darkred;
+	font-size: 30px;
+}
+
+<!--Danielle zimmer-->
