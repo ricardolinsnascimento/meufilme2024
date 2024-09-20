@@ -56,7 +56,7 @@ nav ul li a:hover {
 }
 
 .principal {
-    background-image: url(/imagens/Página-principal/WhiplashBanner3.jpg);
+    background-image: url(/imagens/Pagina-principal/WhiplashBanner3.jpg);
     background-repeat: no-repeat;
     height: 1000px;
     background-size: 100%;
@@ -66,7 +66,7 @@ nav ul li a:hover {
 .primeVideo {
     width: 133px;
     height: 30px;
-    background-image: url(/imagens/Página-principal/primeVideoLogo.png);
+    background-image: url(/imagens/Pagina-principal/primeVideoLogo.png);
     background-repeat: no-repeat;
     background-size: 100%;
     background-position: center;
@@ -76,7 +76,7 @@ nav ul li a:hover {
 .netflix {
     width: 133px;
     height: 30px;
-    background-image: url(/imagens/Página-principal/NetflixLogo.png);
+    background-image: url(/imagens/Pagina-principal/NetflixLogo.png);
     background-repeat: no-repeat;
     background-size: 100%;
     background-position: center;
@@ -86,7 +86,7 @@ nav ul li a:hover {
 .appleTv {
     width: 133px;
     height: 30px;
-    background-image: url(/imagens/Página-principal/AppleTVLogo.jpg);
+    background-image: url(/imagens/Pagina-principal/AppleTVLogo.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
     background-position: center;
@@ -96,7 +96,7 @@ nav ul li a:hover {
 .googleFilms {
     width: 133px;
     height: 30px;
-    background-image: url(/imagens/Página-principal/GoogleFilmsLogo.jpg);
+    background-image: url(/imagens/Pagina-principal/GoogleFilmsLogo.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
     background-position: center;
@@ -180,7 +180,7 @@ nav ul li a:hover {
 }
 
 #sobre {
-    background-image: url(/imagens/Página-principal/1520225698172\ \(1\).jpg);
+    background-image: url(/imagens/Pagina-principal/1520225698172\ \(1\).jpg);
     height: 945px;
     background-repeat: no-repeat;
     background-size: 100%;

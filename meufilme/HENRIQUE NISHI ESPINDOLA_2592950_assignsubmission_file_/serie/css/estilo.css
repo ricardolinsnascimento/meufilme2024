@@ -1,40 +1,69 @@
 body{
-    background-color: white; 
+    background-color: #f0f0f0; 
 }
 a
 {
-	color: black;
+	color: #000000;
+	font-size: 20px;
 }
 h1{
-	background-color: rgb(252, 169, 3);
+	background-color: #1a374d;
 	color: #ffffff; 
 	margin: 20px 92px 20px 92px;
-	font-size: 50px
+	font-size: 50px;
+	text-align: center;
 }
-table{
+#capa2{
 	margin-left: 50px;
+}
+ul{
+	margin-left: 65px;
+}
+#lista{
+	margin-left: 90px;
+	margin-right: 90px;
+	background-color: #1a374d;
+	color: #ffffff; 
+	padding: 5px;
+}
+#link{
+	font-size: 20px;
+	background-color: #1a374d;
+	color: #ffffff; 
+	padding: 5px;
+	margin-left: 90px;
+	margin-right: 90px;
 }
 #sinopse{
 	margin-left: 90px;
+	margin-right: 90px;
+	background-color: #1a374d;
+	color: #ffffff; 
+	padding: 5px;
 }
 #sinopse2{
 	margin-left: 90px;
-}
-#titulo{
-	text-align: center;
+	margin-right: 90px;
 }
 #img{
 	text-align: center;
 }
 #elenco{
-	color: black;
+	color: #ffffff;
 }
 footer{
 	padding: 5px;
 	color: #ffffff;
-	background-color: rgb(252, 169, 3);
+	background-color: #333333;
 	text-align: center;
 }
-#link{
-	margin-left: 90px;
+#titulo{
+	background-color: rgb(252, 169, 3);
+	color: #ffffff; 
+	margin: 20px 92px 20px 92px;
+	font-size: 40px;
+	text-align: center;
+}
+img{
+	margin-left: 50px;
 }

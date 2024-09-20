@@ -1,0 +1,64 @@
+header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  text-align: center;
+  background-color: #5B7C19;
+  padding: 15px 15px;
+  border-radius: 20px;
+}
+body{
+ background-color: #6B8E23;
+}
+
+nav {
+  width: 250px;
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+}
+
+h1 {
+	font-style: serif;
+	font-weight: 15;
+}
+p{
+	font-weight: 100px;
+  text-align: center;
+}
+
+footer{
+  padding: 15px 15px;
+  text-align: center;
+  background-color: #5B7C19;
+  border-radius: 15px;
+}
+h1{
+  text-align: center;
+}
+
+ul li { 
+     display: block;
+     text-align: center;
+
+}
+img{
+  border-radius: 10px;
+}
+.poster {
+ text-align: center;
+}
+.corpo{
+  text-align: center;
+}
+.imagem{
+  text-align: center;
+}
+.elenco{
+  text-align: center;
+}
+
+
+
+
+
